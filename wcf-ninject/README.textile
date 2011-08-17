@@ -1,0 +1,6 @@
+﻿h2. WCF-Ninject
+
+This is a Visual Studio 2010 Project that has all of the setup you need to do in order to use Ninject Dependency Injection with Windows Communication Foundation.
+
+Read more about it here "How to Use Dependency Injection (Ninject) with WCF Services":http://www.aaronstannard.com/post/2011/08/16/dependency-injection-ninject-wcf-service.aspx
+
